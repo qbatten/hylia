@@ -21,8 +21,8 @@ sections:
 - type: document
   path: src/_data/tokens.json
   label: Theme settings
-upload_dir: ''
-public_path: ''
+upload_dir: forestry-mam
+public_path: https://mutualaidmyanmar.s3.us-east-1.amazonaws.com
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
